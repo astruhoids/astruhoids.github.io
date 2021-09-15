@@ -19,7 +19,7 @@ Our app, Ad Astra allows for UH Campuses to keep track of their ohana's health b
 
 ## Deployment
 
-A live deployment of Ad Astra is available at [https://github.com/astruhoids/ad-astra](https://github.com/astruhoids/ad-astra).
+A live deployment of Ad Astra is available at [https://adastra.meteorapp.com/](https://adastra.meteorapp.com/).
 
 ## User Guide
 

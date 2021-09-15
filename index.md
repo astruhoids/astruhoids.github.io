@@ -1,4 +1,4 @@
-# AstrUHoids - Ad Astra
+# Ad Astra
 
 ## Table of contents
 

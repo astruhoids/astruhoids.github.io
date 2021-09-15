@@ -5,6 +5,7 @@
   - [Overview](#overview)
   - [Team](#team)
   - [Deployment](#deployment)
+  - [GitHub Repository](#github-repository)
   - [User Guide](#user-guide)
 
 ## Overview
@@ -20,6 +21,9 @@ Our app, Ad Astra allows for UH Campuses to keep track of their ohana's health b
 ## Deployment
 
 A live deployment of Ad Astra is available at [https://adastra.meteorapp.com/](https://adastra.meteorapp.com/).
+
+## GitHub Repository
+You can find the source code for our Ad Astra application at [https://github.com/astruhoids/ad-astra](https://github.com/astruhoids/ad-astra)
 
 ## User Guide
 
